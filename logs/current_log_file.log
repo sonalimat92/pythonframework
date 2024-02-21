@@ -1,0 +1,4 @@
+31/01/2024 07:05:55 AM: INFO: searcht: step_impl: Chrome launched
+31/01/2024 07:05:55 AM: INFO: __init__: get_auth_plugin: package: mysql.connector.plugins
+31/01/2024 07:05:55 AM: INFO: __init__: get_auth_plugin: plugin_name: caching_sha2_password
+31/01/2024 07:05:55 AM: INFO: __init__: get_auth_plugin: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
